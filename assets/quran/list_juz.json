@@ -1,0 +1,211 @@
+[{
+	"juz": 1,
+	"number_surah": 1,
+	"name_surah": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0671\u0644\u0652\u0641\u064e\u0627\u062a\u0650\u062d\u064e\u0629\u0650",
+	"translate": "Al-Faatiha",
+	"start_ayah": 1,
+	"page": 1
+}, {
+	"juz": 2,
+	"number_surah": 2,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0628\u0642\u0631\u0629",
+	"translate": "Al-Baqara",
+	"start_ayah": 142,
+	"page": 22
+}, {
+	"juz": 3,
+	"number_surah": 2,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0628\u0642\u0631\u0629",
+	"translate": "Al-Baqara",
+	"start_ayah": 253,
+	"page": 42
+}, {
+	"juz": 4,
+	"number_surah": 3,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0622\u0644 \u0639\u0645\u0631\u0627\u0646",
+	"translate": "Aal-i-Imraan",
+	"start_ayah": 93,
+	"page": 62
+}, {
+	"juz": 5,
+	"number_surah": 4,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0646\u0633\u0627\u0621",
+	"translate": "An-Nisaa",
+	"start_ayah": 24,
+	"page": 82
+}, {
+	"juz": 6,
+	"number_surah": 4,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0646\u0633\u0627\u0621",
+	"translate": "An-Nisaa",
+	"start_ayah": 148,
+	"page": 102
+}, {
+	"juz": 7,
+	"number_surah": 5,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0645\u0627\u0626\u062f\u0629",
+	"translate": "Al-Maaida",
+	"start_ayah": 82,
+	"page": 121
+}, {
+	"juz": 8,
+	"number_surah": 6,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0623\u0646\u0639\u0627\u0645",
+	"translate": "Al-An'aam",
+	"start_ayah": 111,
+	"page": 142
+}, {
+	"juz": 9,
+	"number_surah": 7,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0623\u0639\u0631\u0627\u0641",
+	"translate": "Al-A'raaf",
+	"start_ayah": 88,
+	"page": 162
+}, {
+	"juz": 10,
+	"number_surah": 8,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0623\u0646\u0641\u0627\u0644",
+	"translate": "Al-Anfaal",
+	"start_ayah": 41,
+	"page": 182
+}, {
+	"juz": 11,
+	"number_surah": 9,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u062a\u0648\u0628\u0629",
+	"translate": "At-Tawba",
+	"start_ayah": 93,
+	"page": 201
+}, {
+	"juz": 12,
+	"number_surah": 11,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0647\u0648\u062f",
+	"translate": "Hud",
+	"start_ayah": 6,
+	"page": 222
+}, {
+	"juz": 13,
+	"number_surah": 12,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u064a\u0648\u0633\u0641",
+	"translate": "Yusuf",
+	"start_ayah": 53,
+	"page": 242
+}, {
+	"juz": 14,
+	"number_surah": 15,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u062d\u062c\u0631",
+	"translate": "Al-Hijr",
+	"start_ayah": 1,
+	"page": 262
+}, {
+	"juz": 15,
+	"number_surah": 17,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0625\u0633\u0631\u0627\u0621",
+	"translate": "Al-Israa",
+	"start_ayah": 1,
+	"page": 282
+}, {
+	"juz": 16,
+	"number_surah": 18,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0643\u0647\u0641",
+	"translate": "Al-Kahf",
+	"start_ayah": 75,
+	"page": 302
+}, {
+	"juz": 17,
+	"number_surah": 21,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621",
+	"translate": "Al-Anbiyaa",
+	"start_ayah": 1,
+	"page": 322
+}, {
+	"juz": 18,
+	"number_surah": 23,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0645\u0624\u0645\u0646\u0648\u0646",
+	"translate": "Al-Muminoon",
+	"start_ayah": 1,
+	"page": 342
+}, {
+	"juz": 19,
+	"number_surah": 25,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0641\u0631\u0642\u0627\u0646",
+	"translate": "Al-Furqaan",
+	"start_ayah": 21,
+	"page": 362
+}, {
+	"juz": 20,
+	"number_surah": 27,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0646\u0645\u0644",
+	"translate": "An-Naml",
+	"start_ayah": 56,
+	"page": 382
+}, {
+	"juz": 21,
+	"number_surah": 29,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0639\u0646\u0643\u0628\u0648\u062a",
+	"translate": "Al-Ankaboot",
+	"start_ayah": 46,
+	"page": 402
+}, {
+	"juz": 22,
+	"number_surah": 33,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0623\u062d\u0632\u0627\u0628",
+	"translate": "Al-Ahzaab",
+	"start_ayah": 31,
+	"page": 422
+}, {
+	"juz": 23,
+	"number_surah": 36,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u064a\u0633",
+	"translate": "Yaseen",
+	"start_ayah": 28,
+	"page": 442
+}, {
+	"juz": 24,
+	"number_surah": 39,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0632\u0645\u0631",
+	"translate": "Az-Zumar",
+	"start_ayah": 32,
+	"page": 462
+}, {
+	"juz": 25,
+	"number_surah": 41,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0641\u0635\u0644\u062a",
+	"translate": "Fussilat",
+	"start_ayah": 47,
+	"page": 482
+}, {
+	"juz": 26,
+	"number_surah": 46,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0623\u062d\u0642\u0627\u0641",
+	"translate": "Al-Ahqaf",
+	"start_ayah": 1,
+	"page": 502
+}, {
+	"juz": 27,
+	"number_surah": 51,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0630\u0627\u0631\u064a\u0627\u062a",
+	"translate": "Adh-Dhaariyat",
+	"start_ayah": 31,
+	"page": 522
+}, {
+	"juz": 28,
+	"number_surah": 58,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0645\u062c\u0627\u062f\u0644\u0629",
+	"translate": "Al-Mujaadila",
+	"start_ayah": 1,
+	"page": 542
+}, {
+	"juz": 29,
+	"number_surah": 67,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0645\u0644\u0643",
+	"translate": "Al-Mulk",
+	"start_ayah": 1,
+	"page": 562
+}, {
+	"juz": 30,
+	"number_surah": 78,
+	"name_surah": "\u0633\u0648\u0631\u0629 \u0627\u0644\u0646\u0628\u0623",
+	"translate": "An-Naba",
+	"start_ayah": 1,
+	"page": 582
+}]
